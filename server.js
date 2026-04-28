@@ -76,8 +76,8 @@ const emailToSender = (name, email) => ({
     <p style="font-size:14px;line-height:1.7;color:#636360;">
       I've received your message and will get back to you within 24–48 hours.
       Feel free to check out my work on
-      <a href="https://github.com/AbhinavVerma">GitHub</a> or connect on
-      <a href="https://linkedin.com/in/AbhinavVerma">LinkedIn</a>.
+      <a href="https://github.com/abhinav09072002">GitHub</a> or connect on
+      <a href="https://linkedin.com/in/abhinavverma09">LinkedIn</a>.
     </p>
     <hr style="border:none;border-top:1px solid #e8e7e2;margin:16px 0;">
     <p style="font-size:12px;color:#a4a39b;">
